@@ -1,4 +1,4 @@
-package ofekbytes.java8;
+package ofekbytes.java8.main;
 
 public class Main {
 
