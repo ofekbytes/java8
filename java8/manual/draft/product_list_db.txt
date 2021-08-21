@@ -1,0 +1,31 @@
+
+
+---[]------------
+	private String id;
+	private String name;
+	private int model;
+	private long price;
+	private String color;
+	private String manufacturer;
+	private int total;	
+
+
+---[]------------
+	Product id
+	name
+	price
+	wholesale price
+	list price
+	quantity on hand ////qty on hand////
+
+
+---[]------------
+
+
+
+---[]------------
+---[]------------
+---[]------------
+
+
+

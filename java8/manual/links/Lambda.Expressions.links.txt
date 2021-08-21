@@ -1,0 +1,21 @@
+
+---[ Lambda.Expressions.links ]--------------------------------------------------
+
+	***
+	http://tutorials.jenkov.com/java/lambda-expressions.html
+	
+	***
+	https://www.javatpoint.com/java-lambda-expressions
+	
+	***
+	https://www.w3schools.com/java/java_lambda.asp
+	
+	*
+	https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+   
+   
+   
+   
+   
+   
+   
