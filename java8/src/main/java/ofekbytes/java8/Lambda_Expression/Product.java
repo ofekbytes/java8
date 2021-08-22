@@ -12,9 +12,9 @@ public class Product {
 	private int quantity; // total product amount available
 	private long price; // product price
 
-	public Product() {
-	}
-
+	public Product() {	}
+	
+	
 	public Product(String id, String name, String manufacturer, int model, 
 			       String color, String size, int quality, int quantity, long price) {
 		super();
